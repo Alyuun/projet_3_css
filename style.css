@@ -1,0 +1,46 @@
+p {
+	background-color: grey;
+}
+
+h1 {
+	background-color: grey;
+}
+
+h2 {
+	background-color: grey;
+}
+
+nav {
+	background-color: grey;
+	padding: 10px;
+	margin: 50px;
+}
+
+.conteneur {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+ }
+
+ .block {
+ 	display: flex;
+ 	background-color: pink;
+ 	padding: 20px;
+ 	margin: 2px;
+ }
+
+/*.block:nth-child(1) {
+	background-color: pink;
+	padding: 20px;  
+}
+
+.block:nth-child(2) {
+	background-color: teal;
+	padding: 20px;
+	align-self: flex-start;
+}
+
+.block:nth-child(3) {
+	background-color: green;
+	padding: 20px;
+	} */
